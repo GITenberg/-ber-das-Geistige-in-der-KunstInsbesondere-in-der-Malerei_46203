@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1763
     wikipedia: http://en.wikipedia.org/wiki/Wassily_Kandinsky
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46203#-ber-das-Geistige-in-der-KunstInsbesondere-in-der-Malerei
 gutenberg_issued: '2014-07-06'
 gutenberg_type: Text
 identifiers:
